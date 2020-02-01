@@ -1,2 +1,2 @@
 The aim of this project is to discover different functions of Google API and come up with new idea along the way.
-Starting with visual recognition that was introduced in the series of tutorial by [Jie Jen (https://www.youtube.com/watch?v=3cM8zY_dwdw&list=PL3JVwFmb_BnSLFyVThMfEavAEZYHBpWEd&index=4), the author will move next to audio recognition and lastly, text recognition.
+Starting with visual recognition that was introduced in the series of tutorial by [Jie Jen (https://www.youtube.com/watch?v=3cM8zY_dwdw&list=PL3JVwFmb_BnSLFyVThMfEavAEZYHBpWEd&index=4), the author will move next to audio recognition and lastly, text recognition. dadasd
