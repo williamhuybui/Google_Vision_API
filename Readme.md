@@ -8,4 +8,4 @@ Starting with visual recognition that was introduced in the series of tutorial b
 
 2) For the pdf application, create the google cloud storage [here](https://www.youtube.com/watch?v=HMaoUdJQEgY) 
 
-Please visit [Huy Bui's Blog](https://williamhuybui.github.io/Blogs/FRProject/fr_blog.html) to see my result.
+Please visit [my blog](https://williamhuybui.github.io/Blogs/FRProject/fr_blog.html) to see my result.
